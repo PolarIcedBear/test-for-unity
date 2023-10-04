@@ -1,2 +1,2 @@
 # test-for-unity
-test pr lo zio
+test per lo zio
